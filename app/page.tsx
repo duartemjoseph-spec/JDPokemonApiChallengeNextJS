@@ -1,9 +1,5 @@
 "use client";
 
-// GitHub Link: add your repo link here
-// Hosted Link: add your Vercel or Azure link here
-// Figma Link: add your Figma prototype link here
-
 import { useEffect, useMemo, useState } from "react";
 import {
   cleanSearchValue,

@@ -1,3 +1,11 @@
+# GitHub Link: https://github.com/duartemjoseph-spec/JDPokemonApiChallengeNextJS.git
+
+# Hosted Link: https://jd-pokemon-api-challenge-next-js.vercel.app/
+
+# Figma Link: https://www.figma.com/design/DjgZbJ6ZeVLQL1Ql9Darrq/Untitled?node-id=0-1&t=ZiPrKYVlZiPjG33Z-1
+
+
+
 ## Joseph Duarte
 
 ## Date Revised: March 24, 2026
